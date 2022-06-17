@@ -25,3 +25,10 @@ C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\obj\Debug\net
 C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\obj\Debug\net6.0\my-app-0.API.pdb
 C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\obj\Debug\net6.0\my-app-0.API.genruntimeconfig.cache
 C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\obj\Debug\net6.0\ref\my-app-0.API.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\NLog.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\Contracts.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\LoggerService.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\LoggerService.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\Contracts.pdb

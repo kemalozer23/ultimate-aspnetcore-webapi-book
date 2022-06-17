@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "DlvQcdaU2hWuxzxUT4PRkKgB+MLnubGtL2sGIpG5qRVhIZfdajnqeKYSdoMJQxkMZsLRKlUimlQL0V5xDeWlLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KemalÖzer\\Desktop\\Practice\\my-apps\\my-app-0\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KemalÖzer\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\KemalÖzer\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\KemalÖzer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\KemalÖzer\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\KemalÖzer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\KemalÖzer\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\KemalÖzer\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\KemalÖzer\\.nuget\\packages\\nlog\\5.0.0\\nlog.5.0.0.nupkg.sha512",
+    "C:\\Users\\KemalÖzer\\.nuget\\packages\\nlog.extensions.logging\\5.0.0\\nlog.extensions.logging.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

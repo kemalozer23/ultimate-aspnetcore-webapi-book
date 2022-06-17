@@ -1,4 +1,7 @@
-﻿namespace my_app_0.API.Extensions
+﻿using Contracts;
+using LoggerService;
+
+namespace my_app_0.API.Extensions
 {
     public static class ServiceExtensions
     {
@@ -16,5 +19,8 @@
             {
 
             });
+
+        public static void ConfigureLoggerService(this IServiceCollection services) =>
+            services.AddSingleton<ILoggerManager, LoggerManager>();
     }
 }
