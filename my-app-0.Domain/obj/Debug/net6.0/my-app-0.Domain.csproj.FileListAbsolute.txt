@@ -1,0 +1,12 @@
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Domain\bin\Debug\net6.0\my-app-0.Domain.deps.json
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Domain\bin\Debug\net6.0\my-app-0.Domain.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Domain\bin\Debug\net6.0\my-app-0.Domain.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Domain\obj\Debug\net6.0\my-app-0.Domain.csproj.AssemblyReference.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Domain\obj\Debug\net6.0\my-app-0.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Domain\obj\Debug\net6.0\my-app-0.Domain.AssemblyInfoInputs.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Domain\obj\Debug\net6.0\my-app-0.Domain.AssemblyInfo.cs
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Domain\obj\Debug\net6.0\my-app-0.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Domain\obj\Debug\net6.0\my-app-0.Domain.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Domain\obj\Debug\net6.0\refint\my-app-0.Domain.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Domain\obj\Debug\net6.0\my-app-0.Domain.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Domain\obj\Debug\net6.0\ref\my-app-0.Domain.dll

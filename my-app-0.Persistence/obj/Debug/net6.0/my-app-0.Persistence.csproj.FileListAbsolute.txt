@@ -1,0 +1,12 @@
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Persistence\bin\Debug\net6.0\my-app-0.Persistence.deps.json
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Persistence\bin\Debug\net6.0\my-app-0.Persistence.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Persistence\bin\Debug\net6.0\my-app-0.Persistence.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Persistence\obj\Debug\net6.0\my-app-0.Persistence.csproj.AssemblyReference.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Persistence\obj\Debug\net6.0\my-app-0.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Persistence\obj\Debug\net6.0\my-app-0.Persistence.AssemblyInfoInputs.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Persistence\obj\Debug\net6.0\my-app-0.Persistence.AssemblyInfo.cs
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Persistence\obj\Debug\net6.0\my-app-0.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Persistence\obj\Debug\net6.0\my-app-0.Persistence.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Persistence\obj\Debug\net6.0\refint\my-app-0.Persistence.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Persistence\obj\Debug\net6.0\my-app-0.Persistence.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Persistence\obj\Debug\net6.0\ref\my-app-0.Persistence.dll

@@ -1,0 +1,12 @@
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Application\bin\Debug\net6.0\my-app-0.Application.deps.json
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Application\bin\Debug\net6.0\my-app-0.Application.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Application\bin\Debug\net6.0\my-app-0.Application.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Application\obj\Debug\net6.0\my-app-0.Application.csproj.AssemblyReference.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Application\obj\Debug\net6.0\my-app-0.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Application\obj\Debug\net6.0\my-app-0.Application.AssemblyInfoInputs.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Application\obj\Debug\net6.0\my-app-0.Application.AssemblyInfo.cs
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Application\obj\Debug\net6.0\my-app-0.Application.csproj.CoreCompileInputs.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Application\obj\Debug\net6.0\my-app-0.Application.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Application\obj\Debug\net6.0\refint\my-app-0.Application.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Application\obj\Debug\net6.0\my-app-0.Application.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Application\obj\Debug\net6.0\ref\my-app-0.Application.dll

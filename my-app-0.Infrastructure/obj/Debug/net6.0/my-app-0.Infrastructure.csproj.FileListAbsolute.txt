@@ -1,0 +1,12 @@
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Infrastructure\bin\Debug\net6.0\my-app-0.Infrastructure.deps.json
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Infrastructure\bin\Debug\net6.0\my-app-0.Infrastructure.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Infrastructure\bin\Debug\net6.0\my-app-0.Infrastructure.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Infrastructure\obj\Debug\net6.0\my-app-0.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Infrastructure\obj\Debug\net6.0\my-app-0.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Infrastructure\obj\Debug\net6.0\my-app-0.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Infrastructure\obj\Debug\net6.0\my-app-0.Infrastructure.AssemblyInfo.cs
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Infrastructure\obj\Debug\net6.0\my-app-0.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Infrastructure\obj\Debug\net6.0\my-app-0.Infrastructure.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Infrastructure\obj\Debug\net6.0\refint\my-app-0.Infrastructure.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Infrastructure\obj\Debug\net6.0\my-app-0.Infrastructure.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.Infrastructure\obj\Debug\net6.0\ref\my-app-0.Infrastructure.dll
