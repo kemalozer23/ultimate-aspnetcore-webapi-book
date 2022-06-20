@@ -766,6 +766,30 @@
         "runtime": {
           "bin/placeholder/Repository.dll": {}
         }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Contracts": "1.0.0",
+          "Service.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
+        }
+      },
+      "Service.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Service.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.Contracts.dll": {}
+        }
       }
     }
   },
@@ -2155,6 +2179,16 @@
       "type": "project",
       "path": "../Repository/Repository.csproj",
       "msbuildProject": "../Repository/Repository.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
+    },
+    "Service.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Service.Contracts/Service.Contracts.csproj",
+      "msbuildProject": "../Service.Contracts/Service.Contracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2162,6 +2196,7 @@
       "LoggerService >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.6",
       "Repository >= 1.0.0",
+      "Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -2197,6 +2232,9 @@
             },
             "C:\\Users\\KemalÖzer\\Desktop\\Practice\\my-apps\\my-app-0\\Repository\\Repository.csproj": {
               "projectPath": "C:\\Users\\KemalÖzer\\Desktop\\Practice\\my-apps\\my-app-0\\Repository\\Repository.csproj"
+            },
+            "C:\\Users\\KemalÖzer\\Desktop\\Practice\\my-apps\\my-app-0\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\KemalÖzer\\Desktop\\Practice\\my-apps\\my-app-0\\Service\\Service.csproj"
             }
           }
         }
