@@ -15,3 +15,5 @@ C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Repository\obj\Debug\net6.
 C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Repository\obj\Debug\net6.0\Repository.pdb
 C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
 C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Repository\bin\Debug\net6.0\Contracts.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Repository\bin\Debug\net6.0\Contracts.pdb

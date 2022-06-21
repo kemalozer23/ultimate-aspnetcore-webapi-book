@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\KemalÖzer\\Desktop\\Practice\\my-apps\\my-app-0\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\KemalÖzer\\Desktop\\Practice\\my-apps\\my-app-0\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

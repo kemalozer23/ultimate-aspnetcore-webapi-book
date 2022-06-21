@@ -1,0 +1,15 @@
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\bin\Debug\net6.0\Service.Contracts.deps.json
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.AssemblyReference.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\obj\Debug\net6.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfoInputs.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfo.cs
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CopyComplete
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\obj\Debug\net6.0\Service.Contracts.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\obj\Debug\net6.0\refint\Service.Contracts.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\obj\Debug\net6.0\Service.Contracts.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\Service.Contracts\obj\Debug\net6.0\ref\Service.Contracts.dll

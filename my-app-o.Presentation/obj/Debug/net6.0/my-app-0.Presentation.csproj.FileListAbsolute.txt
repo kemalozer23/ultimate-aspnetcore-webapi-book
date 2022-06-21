@@ -1,0 +1,17 @@
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\bin\Debug\net6.0\my-app-0.Presentation.deps.json
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\bin\Debug\net6.0\my-app-0.Presentation.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\bin\Debug\net6.0\my-app-0.Presentation.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\bin\Debug\net6.0\Entities.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\bin\Debug\net6.0\Entities.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\obj\Debug\net6.0\my-app-0.Presentation.csproj.AssemblyReference.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\obj\Debug\net6.0\my-app-0.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\obj\Debug\net6.0\my-app-0.Presentation.AssemblyInfoInputs.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\obj\Debug\net6.0\my-app-0.Presentation.AssemblyInfo.cs
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\obj\Debug\net6.0\my-app-0.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\obj\Debug\net6.0\my-app-0.Presentation.csproj.CopyComplete
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\obj\Debug\net6.0\my-app-0.Presentation.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\obj\Debug\net6.0\refint\my-app-0.Presentation.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\obj\Debug\net6.0\my-app-0.Presentation.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-o.Presentation\obj\Debug\net6.0\ref\my-app-0.Presentation.dll
