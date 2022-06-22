@@ -17,6 +17,7 @@ builder.Services.ConfigureSqlContext(builder.Configuration);
 
 builder.Services.AddControllers()
     .AddApplicationPart(typeof(my_app_0.Presentation.AssemblyReference).Assembly);
+builder.Services.AddAutoMapper(typeof(Program));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

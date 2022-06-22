@@ -79,3 +79,7 @@ C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net
 C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\my-app-0.Presentation.pdb
 C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\Service.pdb
 C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\Shared.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\Shared.pdb
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\KemalÖzer\Desktop\Practice\my-apps\my-app-0\my-app-0.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
